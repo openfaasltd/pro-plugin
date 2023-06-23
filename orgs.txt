@@ -2,3 +2,4 @@ openfaas
 kubiyabot
 gopatchworks
 optiv
+skatolo
